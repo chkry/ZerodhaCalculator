@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/CHAKRI/.android/build-cache/e2d4353ef4180439fd4b2ffc046bb6b57a433f8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ad4d38dba24bc5a6493af86cc4e6a266114b6f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CHAKRI/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_0e6a543628134a293ca1b440430a69c6953fc187/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CHAKRI/.android/build-cache/76d6107e17b146b70c3a9e88e3bc46985f780b91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_944755ce2ca9828d9ef6a59869a654c269d36e16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="056870244f757c99b7b345c37d66f06131f1652d">
+        <dex dex="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1a55cb2d1a8afbc33fa3f0adf0f4bc6715487b9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CHAKRI/.android/build-cache/9879222085e69e12ec4a19ab48e141c681c2620c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ab3045c202c4fb7058ee7491138309ea8fbed06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CHAKRI/.android/build-cache/fd522f7dfe7d71aab3bf438c049032351a584cae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89496e6abd2c1a434bfa08a732d89113583bb4ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2c9f985fb8b16cb7f1db8b33d569ab360f57db97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CHAKRI/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_fa293ba7e244950dc62ad6b75a2c1381813c9b98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CHAKRI/.android/build-cache/db69cfeb6bf93a9fe74aef16aee77765b7373ee5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa2100b247e2afceb13fc273d8615763205ee738/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CHAKRI/.android/build-cache/4a4b51a1dc56d4af20bd755ecea0dfc7f801bb07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8235afe9ec8b394634f43d102494bd3c2114efa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CHAKRI/.android/build-cache/48c23db0a44197dd1b2fbfb1e5725482daa438b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c586e67eb5602a5c393650d5912f0e8a9f2caee6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CHAKRI/.android/build-cache/6c9b1fdf81ef7b605da7e5f475d7c75a8f2baf62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dca00765c8aff6d7f1c9ea3029390ac54417bcad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CHAKRI/.android/build-cache/59442d5920f97cf0dfbed96f4d15859e0fee8fbf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce3c30dab41ffd9d353c901911a8abf7cc688d12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CHAKRI/.android/build-cache/7f1ff7b89d79a5e3b32b3d1d8f247e137382d277/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/CHAKRI/Documents/Android Dev Office/ZerodhaCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81a8cf02fc5e9afd5269223dd450977e96fdbbae/classes.dex" />
+    </item>
+
+</items>
